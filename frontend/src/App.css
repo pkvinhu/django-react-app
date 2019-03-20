@@ -23,6 +23,14 @@
   color: #61dafb;
 }
 
+.nav {
+  position: fixed;
+  display: flex;
+  justify-content: flex-end;
+  height: 100px;
+  background-color: white;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
